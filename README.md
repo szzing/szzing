@@ -1,14 +1,8 @@
-# @szzing
-안녕하세요! 신입개발자 강수진입니다:)
+# ✨szzing
+안녕하세요!
+신입개발자 강수진입니다😊
 
-
-
-### Portfolio
-[포트폴리오 페이지](https://szzing.github.io/sujin)
-
-
-
-### Contact<br>
+**Portfolio** [szzing.github.io/sujin](https://szzing.github.io/sujin) <br>
 **Email** szzing23@naver.com <br>
 **Github** [https://github.com/szzing](https://github.com/szzing) <br>
 **Notion** [notion-description](https://succinct-heliotrope-f2e.notion.site/System-out-print-Hello-World-7daa496d5dd04ee4b021097750353001)
