@@ -23,8 +23,8 @@
 <br>
 
 <h2>📫 Contact</h2>
-<b>Portfolio</b> <a href="https://szzing.github.io/sujin">포트폴리오 사이트</a> (PC 최적화 / 모바일 버전 준비중) <br>
-<b>Email</b> <a href="mailTo:szzing23@naver.com">이메일 작성</a> <br>
+<b>Portfolio</b> <a href="https://szzing.github.io/sujin">포트폴리오 사이트</a> (모바일 버전 준비중) <br>
+<b>Email</b> <a href="mailTo:szzing23@naver.com">szzing23@naver.com</a> <br>
 <b>Notion</b> <a href="https://succinct-heliotrope-f2e.notion.site/System-out-print-Hello-World-7daa496d5dd04ee4b021097750353001">노션 이력서</a>
 
 <br>
