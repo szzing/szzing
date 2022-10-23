@@ -2,8 +2,6 @@
 
 <br>
 
-![image](https://user-images.githubusercontent.com/93658676/179887165-a2ba9fc6-971f-41d9-8d1b-bc12afaf6469.png)
-
 <h2>🛠 Tech Stack</h2>
 
 <img src="https://img.shields.io/badge/HTML-red?style=round-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?style=round-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-yellow?style=round-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-darkblue?style=round-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Jquery-skyblue?style=round-square&logo=Jquery&logoColor=white"/> <br>
