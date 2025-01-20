@@ -5,7 +5,7 @@
 <h2>🛠 Tech Stack</h2>
 
 <img src="https://img.shields.io/badge/HTML-red?style=round-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?style=round-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-yellow?style=round-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-darkblue?style=round-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Jquery-skyblue?style=round-square&logo=Jquery&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Java-blueviolet?style=round-square&logo=Eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-green?style=round-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-orange?style=round-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-blueviolet?style=round-square&logo=Eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-green?style=round-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-orange?style=round-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 
 <br>
 <br>
