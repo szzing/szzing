@@ -6,5 +6,3 @@
 
 ### Stat
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=szzing)](https://solved.ac/szzing)
-<br>
-![SZZING's GitHub stats](https://github-readme-stats.vercel.app/api?username=szzing&show_icons=true&theme=radical)
