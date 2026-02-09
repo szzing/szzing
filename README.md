@@ -1,7 +1,6 @@
 # SZZING's Github
 
 ### Contact
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://regular-snow-674.notion.site/28a7f3e0e39d8063b9d4eaeaf8b1e53a)](https://regular-snow-674.notion.site/28a7f3e0e39d8063b9d4eaeaf8b1e53a)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:szzing23@gmail.com)](mailto:szzing23@gmail.com)
 
 ### Stat
