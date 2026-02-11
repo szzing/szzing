@@ -12,9 +12,9 @@
 <div>
   <h3> 🙋‍♀️ About Me</h3>
   <p>
-    I have experience using Java and RPA tools to analyze data, build visualizations, and optimize business processes.<br>
-    Through automation and structured problem-solving, I enjoy making complex tasks simpler and more efficient.<br>
-    Recently, I’ve been passionate about creating small but meaningful projects and bringing ideas to life through real, working products.<br>
+    I have experience using Java and RPA tools to analyze data, build visualizations, and optimize business processes.
+    Through automation and structured problem-solving, I enjoy making complex tasks simpler and more efficient.
+    Recently, I’ve been passionate about creating small but meaningful projects and bringing ideas to life through real, working products.
     I enjoy experimenting, learning new technologies, and continuously improving my ability to design and build useful tools.
   </p>
 </div>
