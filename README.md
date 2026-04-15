@@ -12,10 +12,9 @@
 <div>
   <h3> 🙋‍♀️ About Me</h3>
   <p>
-    I have experience using Java and RPA tools to analyze data, build visualizations, and optimize business processes.
-    Through automation and structured problem-solving, I enjoy making complex tasks simpler and more efficient.
-    Recently, I’ve been passionate about creating small but meaningful projects and bringing ideas to life through real, working products.
-    I enjoy experimenting, learning new technologies, and continuously improving my ability to design and build useful tools.
+    Backend engineer with experience building enterprise-level systems using Java, Spring Boot, and MSSQL.
+    Strong background in backend development, API integration, database systems, and workflow automation.
+    Experienced in improving operational efficiency through system optimization and process automation in production environments.
   </p>
 </div>
 
