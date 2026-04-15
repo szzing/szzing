@@ -50,8 +50,6 @@
   <div style="text-align: left;">
     ✉️ Email: <a href="mailto:szzing23@gmail.com">szzing23@gmail.com</a>
     <br>
-    📪 Velog: <a href="https://velog.io/@szzing">https://velog.io/@szzing</a>
-    <br>
     💼 LinkedIn: <a href="https://www.linkedin.com/in/szzing">https://www.linkedin.com/in/szzing</a>
   </div>
 </div>
