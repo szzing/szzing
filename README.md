@@ -9,19 +9,6 @@
 <hr>
 <br>
 
-<div>
-  <h3> 🙋‍♀️ About Me</h3>
-  <p>
-    Backend engineer with experience building enterprise-level systems using Java, Spring Boot, and MSSQL.
-    Strong background in backend development, API integration, database systems, and workflow automation.
-    Experienced in improving operational efficiency through system optimization and process automation in production environments.
-  </p>
-</div>
-
-<br>
-<hr>
-<br>
-
 <div align= "left">
   <h3> 🛠️ Tech Stacks </h3>
   <div style="margin: ; text-align: center;" "text-align: center;">
